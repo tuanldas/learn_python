@@ -1,6 +1,5 @@
 import math
 
-
 def euler_totient(n):
     result = n
     p = 2
